@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticari_Otomasyon", "Ticari_Otomasyon\Ticari_Otomasyon.csproj", "{38EDC5EE-F103-4A2B-9E40-9A137E727727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{38EDC5EE-F103-4A2B-9E40-9A137E727727}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7793A47F-E454-4416-9FFC-220B0003C34C}
+	EndGlobalSection
+EndGlobal
